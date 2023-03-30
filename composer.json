@@ -1,0 +1,17 @@
+{
+    "name": "kevin/php-router",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kevin\\PhpRouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kevin Mulugu",
+            "email": "kevinmulugu@gmail.com"
+        }
+    ],
+    "require": {}
+}
